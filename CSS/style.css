@@ -272,6 +272,48 @@ body{
     padding: 20px;
 }
 
+/*Formatação apartamentos*/
+
+#pagina-apartamentos{
+    background: #efeacc;
+    }
+    #pagina-apartamentos h2 {
+    
+        color:#53481b;
+        text-align: center;
+        padding: 20px;
+    }
+    #pagina-apartamentos #info-principal{
+        padding:  10px 90px;
+        font-size: 15px;
+    }
+    
+    #pagina-apartamentos #img-1{
+        height: 330px;
+        width: 550px;
+        padding: 40px;
+        float: left;
+    }
+    
+    #pagina-apartamentos #conteudo-1{
+        padding: 40px 60px; 
+    
+    }
+    
+    #pagina-apartamentos #img-2{
+        padding: 40px;
+        float: right;
+    }
+    #pagina-apartamentos #conteudo-2{
+        text-align: right;
+        padding-top : 90px;
+    
+    }
+    
+    #pagina-apartamentos #post{
+        padding: 20px;
+    }
+
 
 
 

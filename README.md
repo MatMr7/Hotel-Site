@@ -1,1 +1,1 @@
-A hotel site using simple html and css
+A hotel site using simple html and css (front-end)
